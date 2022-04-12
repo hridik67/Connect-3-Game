@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Connect 3</string>
+    <string name="todo" />
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="name">Name</string>
+    <string name="play_again1">PLAY AGAIN</string>
+    <string name="you_won">YOU WON</string>
+    <string name="play_again">PLAY AGAIN</string>
+</resources>
